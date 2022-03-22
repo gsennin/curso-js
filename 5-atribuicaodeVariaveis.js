@@ -1,7 +1,7 @@
 console.log("Trabalhando com atribuição de variáveis");
 const idade = 26;
-const nome = "Geraldo";
-const sobrenome = "Silva";
+const nome = "geraldo";
+const sobrenome = "silva";
 
 // console.log(nome + " " + sobrenome) é igual a linha de baixo
 console.log(nome, sobrenome);
