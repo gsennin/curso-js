@@ -1,12 +1,12 @@
 // Function declaration
-//Sem parametro e não retorna nada.
+//Sem parametro e não retorna nada
 function sayHello() {
     console.log('Hello!')
 }
 
 sayHello()
 
-// Com parametro e não retorna nada.
+// Com parametro e não retorna nada
 function sayHelloTo(name) {
     console.log(`Hello ${name}!`)
 }
