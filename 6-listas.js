@@ -1,8 +1,8 @@
 console.log(`Trabalhando com listas`);
 // const salvador = `Salvador`;
 // const saoPaulo = `São Paulo`;
-// const rioDeJaneiro = `Rio de Janeiro`;   Ctrol + K + C = Comentar várias linhas 
-// Alt + Shift + Seta pra baixo copia o codígo da linha atual p/ a linha de baixo
+// const rioDeJaneiro = `Rio de Janeiro`;   Ctrol + K + C = Comentar várias linhas.
+// Alt + Shift + Seta pra baixo copia o codígo da linha atual p/ a linha de baixo.
 const listaDeDestinos = new Array(
     `Salvador`,
     `São Paulo`,
