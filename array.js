@@ -1,5 +1,5 @@
 /* Array 
-Metodos de Array
+Metodos de Array.
 .push   -> Adicionar mais um parametro no ultimo elemento da lista.
 .lenght -> Selecionar todos os itens da Array, caso queira multiplicar para saber a nota.
 .pop()  -> Excluir i ultimo elemento da lista "Detalhe não preciso colocar a ordem do elemento."
