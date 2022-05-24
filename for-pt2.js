@@ -4,7 +4,7 @@ let somaDasNotas = 0;
 
 for ( let i = 0; i < notas.length ; i++){
 // += soma a variavel da direito na esquerda.    
-    somaDasNotas += notas[i];
+    somaDasNotas += notas[i]
 }
 
 let media = somaDasNotas / notas.length
