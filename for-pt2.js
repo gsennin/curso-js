@@ -1,6 +1,6 @@
 const notas = [10, 6, 7, 5]
 // importante declarar a somaDasNotas fora do For
-let somaDasNotas = 0
+let somaDasNotas = 0;
 
 for ( let i = 0; i < notas.length ; i++){
 // += soma a variavel da direito na esquerda.    
@@ -8,4 +8,4 @@ for ( let i = 0; i < notas.length ; i++){
 }
 
 let media = somaDasNotas / notas.length
-console.log(media)
+console.log(media);
