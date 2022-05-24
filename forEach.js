@@ -1,6 +1,6 @@
 const notas = [10, 6.5, 8, 7.5]
 
-let somaDasNotas = 0
+let somaDasNotas = 0;
 
 //callback
 // notas.forEach(nota => {
@@ -12,4 +12,4 @@ notas.forEach(function(nota){
 })
 
 let media = somaDasNotas / notas.length
-console.log(media)
+console.log(media);
