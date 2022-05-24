@@ -15,6 +15,6 @@ const exibeNomeNota = (nomeDoAluno) => {
     }
 }
 
-console.log(exibeNomeNota("Bia"))
+console.log(exibeNomeNota("Bia"));
 
 
