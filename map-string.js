@@ -4,7 +4,7 @@ const nomesAtualizados = nomesDosAlunos.map(nome => nome.toUpperCase())
 console.log(nomesAtualizados)
 
 
-// Outro Exemplo
+// Outro exemplo
 /* const nomedoCurso = "Fundamentos de JS";
 const nomeDaPlataforma = " Alura"
 
