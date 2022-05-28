@@ -13,8 +13,8 @@ listaDeDestinos.push(`Curitiba`) // Adicionando um item na lista
 
 console.log("Destinos possíveis:");
 //console.log(salvador, saoPauo, rioDeJaneiro) // iMPRIMO A LISTA FEITA PELA ARRAY
-console.log(listaDeDestinos);
+console.log(listaDeDestinos)
 
 listaDeDestinos.splice(1,3); // Reduzir item da lista (Numero na lista do item, repito nº ou tiro os em seguida)
-console.log(listaDeDestinos);
+console.log(listaDeDestinos)
 
