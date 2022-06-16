@@ -16,7 +16,7 @@ const cliente = [
         nome: 'Ronaldo',
         idade: 23,
         cpf: '1236789',
-        email: 'gldo@email.com',
+        email: 'geraldo@email.com',
         fones: [ '55991236', '551329634' ],
         dependentes: [{ 
         nome: 'Beatriz', 
