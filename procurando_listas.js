@@ -1,7 +1,7 @@
 // Procurando Listas
 
 const alunos = ['Geraldo', 'Bia', "ABC"]     
-const mediaDosAlunos = [10,9,7]
+const mediaDosAlunos = [ 10, 9, 7 ]
 
 let listaDeMediaEAlunos = [alunos, mediaDosAlunos]
 // O includes retorna = Booleano
