@@ -6,7 +6,7 @@ Metodos de Array.
 
 */
 
-// Exemplo de Array       0  1  2  3
+/// Exemplo de Array       0  1  2  3
 const notasDoBimestre = [10, 8, 5, 8]                                                                           //.Todos os 4 elementos
 let media = (notasDoBimestre[0] + notasDoBimestre[1] + notasDoBimestre[2] + notasDoBimestre[3]) / notasDoBimestre.length 
 
