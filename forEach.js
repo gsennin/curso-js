@@ -7,6 +7,7 @@ let somaDasNotas = 0;
 //    somaDasNotas += nota
 // })
 
+
 notas.forEach(function(nota){
     somaDasNotas += nota
 })
